@@ -1,16 +1,24 @@
-##Ruby on Rails, GraphQL POC
+# README
 
-#
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-This is a proof of concept exploring the use-case of GraphQL in a Ruby environment.
+Things you may want to cover:
 
-#Goals:
-Create my first Rails App
+* Ruby version
 
-Define simple DB schema
+* System dependencies
 
-Define simple GraphQL schema, types, queries and mutations
+* Configuration
 
-Optimize the API
+* Database creation
 
-Add pagination to the API (maybe)
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
